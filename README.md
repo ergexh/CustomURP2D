@@ -1016,13 +1016,13 @@ static private void RenderShadows(CommandBuffer cmdBuffer, int layerToRender, Li
 
 看看效果
 
-[1](https://vdn3.vzuu.com/SD/14fe625a-59bb-11ec-80b7-5e11b86f6bb6.mp4?disable_local_cache=1&auth_key=1639387168-0-0-b998b2af809ae373a8c007bbbb62e2a2&f=mp4&bu=pico&expiration=1639387168&v=tx)
+[1](https://vdn.vzuu.com/SD/14fe625a-59bb-11ec-80b7-5e11b86f6bb6.mp4?disable_local_cache=1&auth_key=1639405734-0-0-2fe68c06d07eea4f87337594e2846dee&f=mp4&bu=pico&expiration=1639405734&v=ali)
 
 ![2](https://pic1.zhimg.com/v2-7d49ef3c87575c7fb0f9c8f9f0523f4c_b.gif)
 
 (光源随意转方向的效果对了，此次修改文章前的简单做法不对)
 
-[3](https://vdn3.vzuu.com/SD/9a527ffc-59bd-11ec-8b52-e637281d52b7.mp4?disable_local_cache=1&auth_key=1639387190-0-0-01768baaa51b17673a7504618925dcb4&f=mp4&bu=pico&expiration=1639387190&v=tx)
+[3](https://vdn1.vzuu.com/SD/9a527ffc-59bd-11ec-8b52-e637281d52b7.mp4?disable_local_cache=1&auth_key=1639405734-0-0-3f30440b3d493b33e17e7664d56e0b86&f=mp4&bu=pico&expiration=1639405734&v=hw)
 
 (多边形看起来也没问题)
 
